@@ -1,12 +1,12 @@
 {
-  "latest_version_code": 4,
-  "latest_version_name": "4.0",
-  "apk_url": "https://github.com/rajabagdi252-jpg/bengali-calendar/releases/download/v4.0/app-release.apk",
+  "latest_version_code": 5,
+  "latest_version_name": "4.1",
+  "apk_url": "https://github.com/rajabagdi252-jpg/bengali-calendar/releases/download/v4.1/app-release.apk",
   "force_update": false,
   "changelog": [
     {
-      "version_code": 4,
-      "version_name": "4.0",
+      "version_code": 5,
+      "version_name": "4.1",
       "date": "17 অক্টোবর 2026",
       "changes": "🌟 Version 4.0 — নতুন আপডেট\nএই আপডেটে অ্যাপের ক্যালেন্ডার ডিজাইন এবং পারফরম্যান্স আরও উন্নত করা হয়েছে।\n\n🎯 নতুন যা যা যোগ হয়েছে বা ঠিক করা হয়েছে:\n• 📅 ক্যালেন্ডার গ্রিড রিডিজাইন: ঘরগুলো এখন আরও কমপ্যাক্ট (75dp) করা হয়েছে, যাতে পুরো মাসের ক্যালেন্ডার সুন্দরভাবে ফিট হয়।\n• 🚀 পপআপ বাগ ফিক্স: পঞ্জিকা (Popup) আসার সময় আর কোনো লাফালাফি বা ছোট-বড় (Shrink) হয় না।\n• 📌 হেডার ডেট আপডেট: উপরের হেডারে সবসময় শুধুমাত্র আজকের আসল তারিখ ও উৎসব দেখাবে।\n• 🪷 উৎসবের আইকন উন্নয়ন: ব্যানার আইকনগুলোতে সাদা ব্যাকগ্রাউন্ড ও 3D শ্যাডো যোগ করা হয়েছে।\n• ✨ বিশেষ দিন লজিক ফিক্স: নিচের তথ্য প্যানেলে বিশেষ দিনগুলো সঠিকভাবে দেখাবে।\n\n🎨 Realistic Weather Icons (নতুন):\n• Canvas দিয়ে আঁকা realistic সূর্য ও চাঁদ।\n• ১১টা weather condition Canvas দিয়ে আঁকা।\n• দিন-রাত অনুযায়ী auto বদলায়।\n\n🖼️ Weather Box Redesign:\n• ছবি উজ্জ্বল ও পরিষ্কার।\n• Text স্পষ্ট (shadow + gradient panel)।\n• LIVE time নিচে ডানে, Open-Meteo সহ।\n\n📅 Calendar Improvements:\n• উৎসবের নাম ২ লাইনে দেখায়।\n• Cell height 78dp → 88dp।\n• নাম ellipsize সহ।\n\n📱 Header Fix:\n• Logo এবং সব আইকনের সাইজ ছোট করে সব ফোনে একই দেখানো হয়েছে।\n\n🔄 Refresh Button Fix:\n• ৩৬০° smooth rotation।\n• ৪টা জিনিস refresh — Weather, Panjika, Events, Update check।\n\n⭐ Update Feature Improvements:\n• ★ button লাল + blink + badge।\n• APK download + install ও Changelog display।\n\n📥 ডাউনলোড:\nAPK ফাইল নিচে attach করা আছে।\n\n⚠️ Disclaimer:\nঅ্যাপটি ব্যবহারের আগে অনুগ্রহ করে নিশ্চিত করুন যে আপনার ফোনে Unknown Sources চালু আছে।"
     },
