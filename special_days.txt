@@ -1,14 +1,8 @@
 [GENERAL]
-hi
+2026-10-28
+new version 4.1.01
+new age calculator box 
+new animaction bix
 
 [SPECIAL]
-2026-10-28
-test version  
-কেমন আছো 
-কি করছো  
-কোথায় আছো
-কি হয়েছে 
-কি সমস্যা
-ধন্যবাদ 
-তাইতো
 
