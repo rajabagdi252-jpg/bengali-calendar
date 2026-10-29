@@ -1,14 +1,14 @@
 {
-  "latest_version_code": 6,
-  "latest_version_name": "4.1.0",
+  "latest_version_code": 7,
+  "latest_version_name": "4.1.01",
   "apk_url": "https://github.com/rajabagdi252-jpg/bengali-calendar/releases/download/v6.0/app-release.apk",
   "force_update": false,
   "changelog": [
     {
-      "version_code": 6,
-      "version_name": "4.1.0",
+      "version_code": 7,
+      "version_name": "4.1.01",
       "date": "25 অক্টোবর 2026",
-      "changes": "🎨 নতুন UPDATE Design\n• নতুন animation\n• LIVE time Weather Box-এ\n• Text আরো স্পষ্ট\n• Forecast height fix"
+      "changes": "✨ নতুন আপডেট (v4.1.01)\n• সূর্যোদয়, সূর্যাস্ত, চন্দ্রোদয় ও চন্দ্রকলা এখন Swiss Ephemeris দিয়ে ১০০% নির্ভুল দেখাবে।\n• সূর্য ও চন্দ্রের সময় এখন বাংলা সংখ্যায় দেখাবে।\n• ক্যালেন্ডার গ্রিডে পূর্ণিমার দিনে সুন্দর নতুন নীল রঙ যোগ করা হয়েছে।\n• বিশেষ দিন (উৎসব) এখন সরাসরি ইঞ্জিন থেকে অটোমেটিক লোড হবে।\n• অ্যাপের পারফরম্যান্স ও স্পিড আরও ফাস্ট করা হয়েছে।\n\n📱 Android System UI ও UI compatibility উন্নতি\n• Android 15+ (target SDK 35+) ডিভাইসে Edge-to-edge লেআউটের জন্য Status Bar, Navigation Bar ও display cutout-এর insets সামলানোর ব্যবস্থা যোগ করা হয়েছে।\n• Status Bar ও Navigation Bar-এর ব্যাকগ্রাউন্ড এবং আইকনের রং নির্ধারণের ব্যবস্থা করা হয়েছে।\n• কীবোর্ড খোলা অবস্থায় content ঢেকে যাওয়া কমাতে IME inset/resize handling উন্নত করা হয়েছে।\n• ছোট-বড় স্ক্রিনে কিছু Home card, দ্রুত সেবা বাটন ও Calendar Grid cell-এর উচ্চতা প্রয়োজনমতো বাড়তে পারে—এমন layout compatibility পরিবর্তন করা হয়েছে।\n• Dialog-এর মাপ উপলব্ধ স্ক্রিনের জায়গা অনুযায়ী সীমিত করার ব্যবস্থা যোগ করা হয়েছে।\n\n🌐 Special Day ও GitHub ডেটা উন্নতি\n• Calendar Grid-এর বিশেষ দিনের ডেটা Special Day Card-এ ব্যবহার করার ব্যবস্থা যোগ করা হয়েছে।\n• GitHub-এর অতিরিক্ত বিশেষ দিনের তালিকা ব্যবহার করার ব্যবস্থা রাখা হয়েছে; একই ইভেন্ট যেন বারবার না আসে, তার জন্য duplicate নাম বাদ দেওয়া হয়।\n• Settings-এর ‘GitHub-এর অতিরিক্ত বিশেষ দিনের ডেটা’ অপশন সবসময় ON থাকবে এবং OFF করা যাবে না।\n• ইন্টারনেট/GitHub ডেটা না পাওয়া গেলে স্থানীয় special_days.txt তালিকা fallback হিসেবে ব্যবহৃত হবে।\n• Special Day Card-এর RGB Badge ও Ticker অ্যানিমেশন অপরিবর্তিত রাখা হয়েছে।"
     },
     {
       "version_code": 2,
