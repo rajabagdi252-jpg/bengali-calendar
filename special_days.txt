@@ -7,3 +7,7 @@
 new version 4.1.01
 new age calculator box 
 new animaction box
+new update
+new RGB color 
+new text animaction
+new animaction color
