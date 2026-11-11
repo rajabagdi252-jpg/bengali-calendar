@@ -5,7 +5,7 @@
 
 [SPECIAL]
 {2026-11-12
-new updat 4.1.02}
+new version }
 
 
 
