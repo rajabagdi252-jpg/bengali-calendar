@@ -1,9 +1,15 @@
 {
-  "latest_version_code": 8,
-  "latest_version_name": "2.100.1",
-  "apk_url": "https://github.com/rajabagdi252-jpg/bengali-calendar/releases/download/v8.0/app-release.apk",
+  "latest_version_code": 9,
+  "latest_version_name": "2.9.1",
+  "apk_url": "https://github.com/rajabagdi252-jpg/bengali-calendar/releases/download/v9.0/app-release.apk",
   "force_update": false,
   "changelog": [
+    {
+      "version_code": 9,
+      "version_name": "2.9.1",
+      "date": "2026-11-21",
+      "changes": "🎉 নতুন কী আছে — Version 2.9.1\n\n🧭 ৬ বাটনের নতুন বটম নেভিগেশন বার\n\n🌟 আলাদা 'আজকের দিন' ফুল-স্ক্রিন পেজ\n\n✨ নতুন 'আরও সেবা' পেজ\n\n⛅ আধুনিক আবহাওয়া পেজ (২৪ ঘণ্টার পূর্বাভাস, AQI, UV, IMD সতর্কতা ও লাইভ রেডার)\n\n🖼️ হোমে অটো-স্লাইডিং পোস্টার ব্যানার\n\n🌙 হোম কার্ডেই চন্দ্রাস্ত ও চন্দ্র রাশি\n\n📅 সোয়াইপ ক্যালেন্ডার ও অটো-ফিট ডিজাইন\n\n🪔 ক্যালেন্ডারে সরাসরি দৃক/সূর্য পঞ্জিকা টগল\n\n🎨 নতুন হেডার পিল ডিজাইন ও ভাসমান ছবি প্যানেল\n\n📢 আপডেট, ওয়েলকাম ও প্রোমোশনাল পোস্টার পপআপ\n\n🎂 আপডেট করা বয়স ক্যালকুলেটর\n\n🎉 উন্নত উৎসব ও ছুটির তালিকা\n\n⚡ দ্রুত পারফরম্যান্স ও স্ট্যাবিলিটি ফিক্স"
+    },
     {
       "version_code": 8,
       "version_name": "2.100.1",
